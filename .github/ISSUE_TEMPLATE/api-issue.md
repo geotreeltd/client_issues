@@ -32,6 +32,14 @@ e.g.
     }
 ```
 
+OR
+
+```curl
+curl --location 'https://api.geotree.com/client/clients/user/apikey' \
+--header 'X-ML-Token: Token xxxxxx
+
+```
+
 **Output**
 Paste in the http or JSON output
 
