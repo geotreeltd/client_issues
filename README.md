@@ -1,2 +1,3 @@
-# client_issues
-Client Issues
+# Issue List for GeoTree users
+
+Please use the issues tab to post new issues and track existing ones.
