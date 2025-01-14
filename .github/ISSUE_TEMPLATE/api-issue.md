@@ -41,6 +41,8 @@ Paste in the http or JSON output
 }
 ```
 
+OR
+
 ```http
     HTTP/1.1 200 OK
     date: Tue, 14 Jan 2025 11:07:53 GMT
